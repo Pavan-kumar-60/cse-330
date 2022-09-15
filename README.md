@@ -1,2 +1,2 @@
-# cse-331
+# cse-330
 Data Structures and Algorithms
